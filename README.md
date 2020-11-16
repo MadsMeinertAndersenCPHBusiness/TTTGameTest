@@ -3,7 +3,7 @@
 ## Mockito powerups
 
 * How do you verify that a mock was called?
-![Code examples](##1.PNG)
+![Code examples](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/1.PNG)
 
 * How do you verify that a mock was NOT called?
 * How do you specify how many times a mock should have been called?
