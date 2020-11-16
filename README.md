@@ -14,6 +14,9 @@ You verify a mock was NOT called by using the Mockito.verifyNoInteractions metho
 You verify how many times a mock was called by using the Mockito.verify method with second argument\
 ![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/3.PNG)
 
-* How do you verify that a mock was called with specific arguments?
+* How do you verify that a mock was called with specific arguments?\
+You verify that a mock was called with a specific argument by adding the argument to your Mockito.verify method\
+![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/4.PNG)
+
 * How do you use a predicate to verify the properties of the arguments
 given to a call to the mock?
