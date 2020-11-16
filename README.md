@@ -15,8 +15,10 @@ You verify how many times a mock was called by using the Mockito.verify method w
 ![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/3.PNG)
 
 4. How do you verify that a mock was called with specific arguments?\
-You verify that a mock was called with a specific argument by adding the argument to your Mockito.verify method\
-![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/4.PNG)
+You verify that a mock was called with a specific argument by using Mockito.eq method\
+![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/CodeExample4.PNG)
 
 5. How do you use a predicate to verify the properties of the arguments
-given to a call to the mock?
+given to a call to the mock?\
+You can use predicate to verify the properties of the arguments given to a call to the mock by using the Mockito.args method\
+![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/5.PNG)
