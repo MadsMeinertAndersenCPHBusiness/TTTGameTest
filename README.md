@@ -3,6 +3,8 @@
 ## Mockito powerups
 
 * How do you verify that a mock was called?
+
+You verify a mock call by using the Mockito.verify method
 ![Code examples](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/1.PNG)
 
 * How do you verify that a mock was NOT called?
