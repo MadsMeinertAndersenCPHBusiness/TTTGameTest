@@ -22,3 +22,6 @@ You verify that a mock was called with a specific argument by using Mockito.eq m
 given to a call to the mock?\
 You can use predicate to verify the properties of the arguments given to a call to the mock by using the Mockito.args method\
 ![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/5.PNG)
+
+
+To run our code you need to clone our repository or download the zip file and set your IDE to java version 14 and language version 14
