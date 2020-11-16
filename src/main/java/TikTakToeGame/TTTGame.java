@@ -1,3 +1,5 @@
+package TikTakToeGame;
+
 public class TTTGame {
     private char[][] board;
     private char playerMark;
