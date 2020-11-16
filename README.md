@@ -24,4 +24,4 @@ You can use predicate to verify the properties of the arguments given to a call 
 ![Code example](https://github.com/MadsMeinertAndersenCPHBusiness/TTTGameTest/blob/main/5.PNG)
 
 
-To run our code you need to clone our repository or download the zip file and set your IDE to java version 14 and language version 14
+To run our code you need to clone our repository or download the zip file and set your IDE to java version 14 and language version 14. To run the PITest you need to run maven verify and to run the JaCoCo test you need to run maven test. 
